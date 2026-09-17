@@ -57,3 +57,10 @@ ul {
 .main-nav a:hover {
     text-decoration: underline;
 }
+
+
+.student-profile h2 {
+    border-bottom: 2px solid #e2e8f0;
+    padding-bottom: 8px;
+    margin-top: 30px;
+}
